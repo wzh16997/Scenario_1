@@ -10,6 +10,14 @@ class HomeScreen(Screen):
     pass
 
 
+class TestScreen(Screen):
+    pass
+
+
+class QuestionsScreen(Screen):
+    pass
+
+
 class LogicTestApp(MDApp):
     pass
 
